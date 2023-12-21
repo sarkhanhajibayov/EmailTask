@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gO08hYd0KkvF5rszM8SMVq+8H87Ak8Q5pFGd2hF7fUgxSllRLPc1/2qYLs+nIXs2Wg2y7NiZ9dqTWGUVt5p2uQ==",
+  "dgSpecHash": "1VFH4Nzil0iIgTzP4JcrvYKgU+oG7vcLOvsyXngPzbvG3Pmea3XhhmdyJou/yzVg7INMR5b3xoAHhxNRU6gKwA==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Desktop\\Code-Academy\\EmailTask\\EmailTask\\EmailTask.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\scriban\\5.9.0\\scriban.5.9.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.0\\system.threading.tasks.extensions.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
